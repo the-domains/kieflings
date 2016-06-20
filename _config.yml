@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.666666
+  lightness: 0.953828
+  rhythmicContrast: 0.644722
+  saturation: 0.512387
+cta: {}
+layout_spectrum: 0.1269246917023733
+name: kieflings
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.45245753904374675
