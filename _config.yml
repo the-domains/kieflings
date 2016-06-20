@@ -1,4 +1,19 @@
-analytics: {}
+name: kieflings
+favicon: null
+layout_spectrum: 0.1269246917023733
+typography_spectrum: 0.45245753904374675
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -8,11 +23,9 @@ color:
     - '#CEAFC0'
   brandStrength: 0.666666
   lightness: 0.953828
-  rhythmicContrast: 0.644722
   saturation: 0.512387
-cta: {}
-layout_spectrum: 0.1269246917023733
-name: kieflings
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.45245753904374675
+  rhythmicContrast: 0.644722
+purpose:
+  - name: null
+    item: null
+    url: null
